@@ -1,5 +1,7 @@
 # PriceAnalyzer
-Google App Engine java application that estimates the cost for a lambda function
+Google App Engine java application that estimates the cost for a lambda function.
+
+[Visit Project Site](https://price-analyzer.appspot.com/)
 
 **Specifications**
 
